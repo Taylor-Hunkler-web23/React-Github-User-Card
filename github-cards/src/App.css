@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: #09d3ac;
 }
 
 .App-logo {
@@ -20,3 +21,16 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card-img{
+  width:100%;
+}
+
+.card-parent{
+  display: flex;
+  justify-content:center;
+  
+ 
+  
+}
+
