@@ -12,7 +12,7 @@ render() {
             <h1>{this.props.userinfo.location}</h1>
             <h1>{this.props.userinfo.login}</h1>
             <h2>{this.props.userinfo.followers}</h2>
-
+        <img src={this.props.userinfo.avatar_url}/>
 
      </div>
 
